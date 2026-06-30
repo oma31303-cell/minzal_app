@@ -1,0 +1,10 @@
+flask
+yt-dlp
+gallery-dl
+qrcode
+pillow
+pypdf
+python-barcode
+openpyxl
+pyotp
+fpdf2
